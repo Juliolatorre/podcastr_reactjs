@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Podcastr o melhor para você ouvir as suas podcasts preferidas sempre! 💜 
+Podcastr o melhor para você ouvir as suas podcasts sempre! 💜 
 
 Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 19 a 25 de Abril de 2021.
 
@@ -44,7 +44,7 @@ Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para ace
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE]([url=https://github.com/Juliolatorre/podcastr_reactjs/blob/master/LICENSE]LICENSE.md[/url]) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
 
